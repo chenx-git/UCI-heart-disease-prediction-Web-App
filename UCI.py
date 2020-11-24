@@ -1,11 +1,9 @@
-import os
-os.chdir('/Users/chenxidong/Desktop/5001_project/')
+
 import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt # drawing graphs
 from sklearn.tree import DecisionTreeClassifier # a classification tree
-from sklearn.tree import plot_tree # draw a classification tree
 from sklearn.model_selection import cross_val_score # cross validation
 from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
@@ -27,7 +25,7 @@ def main():
     #simpply use the cache last time unlesss the input changed
     @st.cache(persist=True)
     def load_data():
-        data=pd.read_csv('/Users/chenxidong/Desktop/5001_project/heart.csv')
+        data=pd.read_csv('heart.csv')
         data.columns = ['age', 
               'sex', 
               'cp', 
