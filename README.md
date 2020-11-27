@@ -13,3 +13,7 @@ App contains 3 classifier (parameters can be tuned):
 -Logistic Regression
 
 -Decision Tree
+
+## The screenshot of the web app
+![](screenshot.png)
+![](confusion.png)
