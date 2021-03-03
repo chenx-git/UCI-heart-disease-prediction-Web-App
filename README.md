@@ -1,19 +1,19 @@
 # UCI-heart-dosease-prediction-Web-App
 
-## The app is deployed in HEROKU: https://uci-heart-disease-streamlit.herokuapp.com/
+### The app is deployed in HEROKU: https://uci-heart-disease-streamlit.herokuapp.com/
 
-A Web App built by Python Streamlit using Kaggle UCI Heart Disease dataset:
+### A Web App built by Python Streamlit using Kaggle UCI Heart Disease dataset:
 
-https://www.kaggle.com/ronitf/heart-disease-uci
+<li>URL: https://www.kaggle.com/ronitf/heart-disease-uci
 
-App contains 3 classifier (parameters can be tuned):
+### App contains 3 classifier (parameters can be tuned):
 
--SVM
+<li>SVM
 
--Logistic Regression
+<li>Logistic Regression
 
--Decision Tree
+<li>Decision Tree
 
-## The screenshot of the web app
+## The screenshot of the web app page
 ![](screenshot.png)
 ![](confusion.png)
