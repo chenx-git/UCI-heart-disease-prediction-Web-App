@@ -6,7 +6,7 @@
 
 <li>URL: https://www.kaggle.com/ronitf/heart-disease-uci
 
-### App contains 3 classifier (parameters can be tuned):
+### App contains 3 classifier (hyperparameters can be tuned by user):
 
 <li>SVM
 
