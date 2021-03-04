@@ -8,11 +8,11 @@
 
 ### App contains 3 classifier (hyperparameters can be tuned by user):
 
-<li>SVM
+  <li>SVM
 
-<li>Logistic Regression
+  <li>Logistic Regression
 
-<li>Decision Tree
+  <li>Decision Tree
 
 ## The screenshot of the web app page
 ![](screenshot.png)
